@@ -4,7 +4,7 @@ MSc Management of Business Information Technology
 
 ### Skills
 
-SQL, Pyhton, Power BI, JIRA, Agile, SoapUI, Postman, 
+SQL, Pyhton, Power BI, JIRA, Agile, SoapUI, Postman, Data Visualisation, Process Mapping
 
 ### Work Experience
 Business Analyst @Metlife
