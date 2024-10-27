@@ -2,6 +2,10 @@
 ### Education
 MSc Management of Business Information Technology 
 
+### Skills
+
+SQL, Pyhton, Power BI, JIRA, Agile, SoapUI, Postman, 
+
 ### Work Experience
 Business Analyst @Metlife
 - Project 1
@@ -16,4 +20,8 @@ Business Analyst @Metlife
 5
 
 ### Volunteering Projects
+Uwakeneme Community Education Project
+Non Profit Salesfroce Business Analyst
+
+Planned and executed implementation strategy, including UAT, user training, and platform customisation
 
