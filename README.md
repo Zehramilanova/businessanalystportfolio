@@ -1,6 +1,6 @@
 # Business Analyst
 ### Education
-MSc Management of Business Information Technology 
+MSc Management of Business Information Technology (University of Greenwich)
 
 ### Skills
 
