@@ -23,5 +23,5 @@ Business Analyst @Metlife
 Uwakeneme Community Education Project
 Non Profit Salesfroce Business Analyst
 
-Planned and executed implementation strategy, including UAT, user training, and platform customisation
+[https://www.linkedin.com/in/zehra-milanova/]
 
