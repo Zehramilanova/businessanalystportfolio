@@ -1,4 +1,6 @@
 # Business Analyst
+## Objective
+
 ### Education
 MSc Management of Business Information Technology (University of Greenwich)
 
